@@ -17,7 +17,7 @@ bats. Previous studies5,6 that identified the microbiota of bats have focused on
 little attention given to the external microbiota. Here we show for the first time that there are biogeographic 
 differences in the abundance and diversity of external bat microbiota.
 
-References
+<br>References<br>
 1. Gargas, A. et al. Geomyces destructans sp. nov. associated with bat white-nose syndrome. Mycotaxon 108, 147-154 (2009).
 2. US Fish and Wildlife Service. North American bat death toll exceeds 5.5 million from white-nose syndrome. News Release (2012).
 3. Humphrey, S. R. Nursery roosts and community diversity of nearctic bats. J Mammal. 56, 321-346 (1975). 
