@@ -3,7 +3,7 @@ Microbiom of the Bat Environment Project
 
 This is a collection of scripts, workflow, and data for the microbiom of the bat environment project based out of the University of New Mexico
 
-PROJECT OVERVIEW
+PROJECT OVERVIEW:
 White-nose syndrome (WNS), a disease caused by the fungus Pseudogymnoascus destructans1, has spread west from New York
 to Missouri and has killed more than six million bats2. In bat hibernacula where WNS is present, mass mortality has 
 been observed and there is a high potential for population collapse or extinction of some species at a regional level.
