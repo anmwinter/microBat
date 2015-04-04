@@ -1,0 +1,9 @@
+pick_open_reference_otus.py -i seqs.fna -r /macqiime/unite/sh_refs_qiime_ver7_97_02.03.2015.fasta -o open_ref/ -p ucrss_smr_suma_params.txt -m sortmerna_sumaclust
+
+assign_taxonomy.py -i rep_set.fna -t /macqiime/unite/sh_taxonomy_qiime_ver7_97_02.03.2015.txt -r /macqiime/unite/sh_refs_qiime_ver7_97_02.03.2015.fasta -o tax_results_sortme/ -m sortmerna
+
+make_otu_table.py -i open_ref/final_otu_map.txt -t tax_results_sortme/rep_set_tax_assignments.txt -o otu_table.biom
+
+summarize_taxa.py -i otu_table.biom  -o taxonomy_summaries/ -a
+
+biom convert -i otu_table.biom -o fixed.biom --table-type="OTU table" --to-hdf5
