@@ -1,7 +1,7 @@
 # microBat
 Microbiom of the Bat Environment Project
 
-<br>This is a collection of scripts, workflow, and data for the microbiom of the bat environment project based out of the University of New Mexico. This project is a subset the Microbiom of the Subsurface Environemnt and the SLIMETEAM.
+<br>This is a collection of scripts, workflow, and data for the microbiom of the bat environment project based out of the University of New Mexico. This project is a subset the Microbiom of the Subsurface Environment and the SLIMETEAM.
 </br>
 
 <br>
