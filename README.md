@@ -35,3 +35,6 @@ differences in the abundance and diversity of external bat microbiota.
 <br>5. Phillips, C. D. et al. Microbiome analysis among bats describes influences of host phylogeny, life history, physiology and geography. Mol. Ecol. 21, 2617-2627 (2012).</br>
 <br>6. Muhldorfer, K. Bats and bacterial pathogens: A review. Zoonoses Public Health 60, 93-103 (2012).</br>	
 
+<br></br>
+<a href="http://dx.doi.org/10.5281/zenodo.17577"><img src="https://zenodo.org/badge/12914/bioinfonm/microBat.svg"><a>
+
