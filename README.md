@@ -1,7 +1,15 @@
 # microBat
 Microbiom of the Bat Environment Project
 
-This is a collection of scripts, workflow, and data for the microbiom of the bat environment project based out of the University of New Mexico
+<br>This is a collection of scripts, workflow, and data for the microbiom of the bat environment project based out of the University of New Mexico. This project is a subset the Microbiom of the Subsurface Environemnt and the SLIMETEAM.
+</br>
+
+<br>
+The current version of the paper is available here:
+External Microbiota of Western United States Bats
+http://biorxiv.org/content/early/2015/04/14/017319
+doi: http://dx.doi.org/10.1101/017319
+</br>
 
 <br>PROJECT OVERVIEW</br>
 White-nose syndrome (WNS), a disease caused by the fungus Pseudogymnoascus destructans1, has spread west from New York
@@ -16,6 +24,8 @@ microbiota of western bats is critical to understanding how P. destructans may i
 bats. Previous studies5,6 that identified the microbiota of bats have focused on gut and fecal microbiota, with 
 little attention given to the external microbiota. Here we show for the first time that there are biogeographic 
 differences in the abundance and diversity of external bat microbiota.
+
+<br>This information is preliminary and is subject to revision. It is being provided to meet the need for timely best science. The information is provided on the condition that neither the U.S. Geological Survey nor the U.S. Government shall be held liable for any damages resulting from the authorized or unauthorized use of the information.</br>
 
 <br>References<br>
 <br>1. Gargas, A. et al. Geomyces destructans sp. nov. associated with bat white-nose syndrome. Mycotaxon 108, 147-154 (2009).</br>
