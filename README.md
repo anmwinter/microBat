@@ -1,5 +1,5 @@
 # microBat
-Microbiom of the Bat Environment Project
+16S rRNA gene study of bats in the Southwest
 
 <br>This is a collection of scripts, workflow, and data for the microbiom of the bat environment project based out of the University of New Mexico. This project is a subset the Microbiom of the Subsurface Environment and the SLIMETEAM.
 </br>
@@ -12,28 +12,10 @@ doi: http://dx.doi.org/10.1101/017319
 </br>
 
 <br>PROJECT OVERVIEW</br>
-White-nose syndrome (WNS), a disease caused by the fungus Pseudogymnoascus destructans1, has spread west from New York
-to Missouri and has killed more than six million bats2. In bat hibernacula where WNS is present, mass mortality has 
-been observed and there is a high potential for population collapse or extinction of some species at a regional level.
-Although WNS is not yet present in the western U.S. , the high diversity of bat species3 and appropriate conditions
-for P. destructans in area caves may put these populations at risk. The absence of WNS in western caves provides a 
-unique opportunity to ask questions about how bat species, geographic location, and habitat shape pre-WNS microbiota.
-The importance of microbiota is shown in many organisms, including amphibians, where individuals that survive a 
-chytrid infection carry a higher prevalence of Janthinobacterium lividum4. The establishment of a pre-WNS baseline
-microbiota of western bats is critical to understanding how P. destructans may impact the native microbiota of the 
-bats. Previous studies5,6 that identified the microbiota of bats have focused on gut and fecal microbiota, with 
-little attention given to the external microbiota. Here we show for the first time that there are biogeographic 
-differences in the abundance and diversity of external bat microbiota.
+Recently microbiomes of humpback whales, dolphins, shrimp, and external body parts on humans have generated interest in external microbiota  and provide a new framework for microbial ecology, drug discovery, conservation management, and important links to macroecology. However, we have little to no understanding of the external bacteria microbiome on bats or factors that influence the structure of these communities. White-nose syndrome (WNS) is a newly emergent disease that results in moderate to very high mortality in affected bats. Our results provide a first insight into the distribution of external bat bacteria in a WNS-free environment. For this study we used 16S rRNA gene 454 pyrosequencing on 186 bats from 14 species sampled across southeastern New Mexico to northwestern Arizona. The microbial communities on bats in the region were highly variable with representatives from Actinobacteria, Firmicutes, Nitrospira, and Cyanobacteria. The patterns could be partly explained by environmental and local factors, with cave-caught bats sharing more similar external microbial communities based on Bray-Curtis dissimilarity. Bats caught in caves had a distinct microbial community compared to those that were netted on the surface. Our results also suggest that bats caught in the cave have a more homogenized external microbiome.
 
 <br>This information is preliminary and is subject to revision. It is being provided to meet the need for timely best science. The information is provided on the condition that neither the U.S. Geological Survey nor the U.S. Government shall be held liable for any damages resulting from the authorized or unauthorized use of the information.</br>
 
-<br>References<br>
-<br>1. Gargas, A. et al. Geomyces destructans sp. nov. associated with bat white-nose syndrome. Mycotaxon 108, 147-154 (2009).</br>
-<br>2. US Fish and Wildlife Service. North American bat death toll exceeds 5.5 million from white-nose syndrome. News Release (2012).</br>
-<br>3. Humphrey, S. R. Nursery roosts and community diversity of nearctic bats. J Mammal. 56, 321-346 (1975).</br> 
-<br>4. Brucker, R.M., et al. Amphibian chemical defense: Antifungal metabolites of the microsymbiont Janthinobacterium lividum on the salamander Plethodon cinereus. J Chem Ecol. 34, 1422-1429 (2008).</br>
-<br>5. Phillips, C. D. et al. Microbiome analysis among bats describes influences of host phylogeny, life history, physiology and geography. Mol. Ecol. 21, 2617-2627 (2012).</br>
-<br>6. Muhldorfer, K. Bats and bacterial pathogens: A review. Zoonoses Public Health 60, 93-103 (2012).</br>	
 
 <br></br>
 <a href="http://dx.doi.org/10.5281/zenodo.17577"><img src="https://zenodo.org/badge/12914/bioinfonm/microBat.svg"><a>
